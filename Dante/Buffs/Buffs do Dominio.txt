@@ -1,0 +1,13 @@
+Magias com descritor BEM tem +1 nivel de caster
+Calm Emotion 1 vez por dia. +2 em diplomacia
+Magias de adivinhacao tem +1 nivel de caster
+Magias de Conjuracao (criacao) tem +2 nivel de caster
+Magias de Cura tem +1 nivel de caster
++Nivel de clerigo na força por 1 turno 
++2 no nivel de expulcao e +1d6 no dano
+Weapon Focus (long sword)
++4 de bonus para dissipar magia
+Magias com descritor Leal tem +1 nivel de caster
+Talento Escrever Pergaminhos
+Iniciativa Aprimorada
+1 vez por nivel liberdade de movimento por 1 turno como acao livre
