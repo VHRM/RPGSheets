@@ -1,0 +1,54 @@
+Quick Draw:
+	Sacar itens se torna acao padrao
+Power Attack:
+	Sacrifica BBA para adicionar ao dano
+Awesome Smite:
+	Escolhe entre os seguintes efeitos ao tirar ao menos 1 da base: penetrar DR igual ao dobro do carisma
+									fazer tentativa de prone ao atacar
+									ignorar chance de erro
+Quicken Spell:
+	Magia se torna acao livre, gasta 4 slots a mais
+Extend Spell:
+	Magia dura o dobro do tempo, gasta 1 slots a mais
+Chain Spell:
+	Magia salta entre alvos, gasta 3 slot a mais
+Persist Spell:
+	Magia dura 24h, gasta 4 slots a mais
+Luck Devotion:
+	1 vez por dia, por 1 minuto, caso a jogada de dano seja menor que a media, ela se torna a media
+Magia Piedosa:
+	Adiciona 1d6 nas CD's das magias, gastando 1 ponto de fe
+Alma Piedosa:
+	Adiciona 1d6 no acerto, gastando 1 ponto de fe
+Divine Shield:
+	Gasta 1 expulsao para adicionar carisma na CA por metade nivel em turnos
+Divine Might:
+	Gasta 1 expulsao para adicionar carisma no acerto e dano por metade nivel em turnos
+Ancestral Knowledge:
+	Utiliza sabedoria no lugar de inteligencia para testes de conhecimento
+Intuitive Attack:
+	Pode-se utilizar a sabedoria no lugar da forca para atacar
+Planar Turning:
+	Expulsao tambem afeta outsiders
+Permanent Emanation (End to Strife):
+	Emana permanentemente End to Strife (que causa 20d6 de dano ao atacar dentro da area) que pode ser desativada por acao livre
+Extra Turning:
+	+4 expulsoes
+Transcedental Spell:
+	Retira limite de magias, gasta 5 slots a mais
+DMM Transcedental Spell:
+	Permite gastar expulsoes iguais aos niveis extras de magia para usar a metamagia
+Improved Combat Casting:
+	Conjurar na area de ameaca nao ativa ataques de oportunidade
+Great Turning:
+	Dano da expulsao e dobrado
+Mystra Initiate:
+	Ao passar em um teste de conjurador com cd 20+nivel da magia (zona de magia morta) ou 10+nivel da magia (zona antimagia)
+a magia pode ser conjurada normalmente.
+	
+DMM Chain Spell:
+	Permite gastar expulsoes iguais aos niveis extras de magia para usar a metamagia
+DMM Persist Spell:
+	Permite gastar expulsoes iguais aos niveis extras de magia para usar a metamagia
+DMM Quicken Spell:
+	Permite gastar expulsoes iguais aos niveis extras de magia para usar a metamagia

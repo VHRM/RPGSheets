@@ -11,3 +11,5 @@ Magias com descritor Leal tem +1 nivel de caster
 Talento Escrever Pergaminhos
 Iniciativa Aprimorada
 1 vez por nivel liberdade de movimento por 1 turno como acao livre
+Uma vez por dia posso re-rolar qualquer rolagem de dano, pegando a melhor.
+Uma vez por dia, como ação imediata, alter fortune.
