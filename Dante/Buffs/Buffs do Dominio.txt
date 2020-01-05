@@ -1,11 +1,12 @@
-Magias com descritor BEM tem +1 nivel de caster
+3+Cha expulsões para elementais de fogo
+3+Cha expulsões para elementais de agua
 Calm Emotion 1 vez por dia. +2 em diplomacia
 Magias de adivinhacao tem +1 nivel de caster
 Magias de Conjuracao (criacao) tem +2 nivel de caster
 Magias de Cura tem +1 nivel de caster
 +Nivel de clerigo na força por 1 turno 
 +2 no nivel de expulcao e +1d6 no dano
-Weapon Focus (long sword)
+Weapon Focus (long sword) +1 de acerto e dano
 +4 de bonus para dissipar magia
 Magias com descritor Leal tem +1 nivel de caster
 Talento Escrever Pergaminhos

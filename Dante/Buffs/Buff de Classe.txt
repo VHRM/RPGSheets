@@ -1,43 +1,43 @@
-Clerigo: 14 expulsões
+ï»¿Clerigo: 42 expulsoes
 Ordained Champion:
 	Modified Spontaneous Casting: Perde o cast espontaneo de magias de cura para ganhar cast espontaneo de magias do dominio da guerra
-	Talento duro de matar: ao ficar com 0 de pv o personagem não desmaia
+	Talento duro de matar: ao ficar com 0 de pv o personagem nao desmaia
 	Smite: usando 1 expulsao, adiciono o modificador de carisma no acerto e o nivel da expulsao no dano.
-	Channel Spell: imbue a espada longa com uma magia usando a ação de movimento
+	Channel Spell: imbue a espada longa com uma magia usando a acao de movimento
 	Divine Bulwark: Sacrifico 1 magia para ganhar reducao de dano baseada no nivel da magia
 	Fist of the gods: Sacrifico 1 magia para ganhar acerto baseado no nivel da magia
-	Rapid Spontaneous Casting: Ao usar uma magia do dominio da guerra, ela é conjurada com uma ação rápida.
-	Holy Warrior: usando 1 expulsao, substituo a força por sabedoria no acerto e dano. (dura 5 turnos)
+	Rapid Spontaneous Casting: Ao usar uma magia do dominio da guerra, ela eh conjurada com uma acao rapida.
+	Holy Warrior: usando 1 expulsao, substituo a forca por sabedoria no acerto e dano. (dura 5 turnos)
 Fist of Raziel:
 	Smite Evil: o mesmo que o smite porem para criaturas evil e sem gastar expulsao. 5 vezes por dia. Stacka com smite
-		Golpe supera redução de dano (bem)
+		Golpe supera reducao de dano (bem)
 		Confirma Criticos
 		Sagrada ( +2d6 de dano para criaturas evil)
 		Matadora de demonios (extraplanares evil tomam +2d8)
 		Em corrente (afeta criaturas ao redor)
 	Talento "sanctify martial strike": 1 de dano a mais com espada longa
-	Sunder Evil Item: dá o dobro de dano em objetos evil
-	Holy Martial Strike: toda arma empunhada é considerada sagrada (+2d6 em evil)
+	Sunder Evil Item: da o dobro de dano em objetos evil
+	Holy Martial Strike: toda arma empunhada eh considerada sagrada (+2d6 em evil)
 
 Contemplative:
-	Divine Health: imune a doenças, incluindo mágicas
+	Divine Health: imune a doencas, incluindo magicas
 	Slippery Mind: ao falhar em resistir uma magia de encantamento, pode tentar novamente no proximo turno.
 	Divine Wholeness: pode curar 80 de dano por dia.
 	Divine Body: imune a venenos
 	Divine Soul: Resistencia a magias 35
-	Eternal Body: não envelhece.
-	Mystic Union: redução de dano 10/magico e se torna um extraplanar nativo.
+	Eternal Body: nao envelhece.
+	Mystic Union: reducao de dano 10/magico e se torna um extraplanar nativo.
 Hierophant:
 	Divine Reach: magias de toque podem ser usada a 9m de distancia.
 Saint:
 	Outsider
 	Sabedoria como insight na CA
 	Holy Power: Os CD das magias aumenta em +2
-	Holy Touch: Os ataques dão +1d6 de dano sagrado em criaturas malignas e +1d8 em outsiders ou undeads.
+	Holy Touch: Os ataques dao +1d6 de dano sagrado em criaturas malignas e +1d8 em outsiders ou undeads.
 	Guidance, Resistance, Virtue e Bless a vontade.
-	Redução de dano: 10/evil
+	Reducao de dano: 10/evil
 	Fast Healing 10
-	Imunidades: acido, frio, eletricidade e petrificação
+	Imunidades: acido, frio, eletricidade e petrificacao
 	Visao 18m darkvision
 	Aura protetora: circulo magico contra o mal (2x mais forte) e globo de invulnerabilidade.
 	Resistencia a fogo 10
